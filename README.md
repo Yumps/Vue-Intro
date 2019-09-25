@@ -1,4 +1,5 @@
 # vue-intro
+Just basic vue practice.
 
 ## Project setup
 ```
