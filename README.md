@@ -1,5 +1,8 @@
 # vue-intro
-Just basic vue practice.
+basic calander using Vue
+
+tutorial followed:
+https://www.youtube.com/watch?v=ArAaWaTQrgQ&list=PLINmvGGUwYc3-126TundzGR7iERvBbxZ_
 
 ## Project setup
 ```
